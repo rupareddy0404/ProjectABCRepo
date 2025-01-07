@@ -1,0 +1,9 @@
+<extent-config>
+    <configuration>
+        <theme>dark</theme> <!-- Options: dark, standard -->
+        <documentTitle>Test Automation Report</documentTitle>
+        <reportName>My Project Test Report</reportName>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+    </configuration>
+</extent-config>
